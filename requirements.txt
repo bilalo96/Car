@@ -1,4 +1,4 @@
-setuptools~=57.5.0
+setuptools<58.0.0
 wheel==0.37.0
 amqp==5.1.1
 gunicorn==19.7.1
