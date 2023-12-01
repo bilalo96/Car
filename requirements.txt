@@ -51,4 +51,4 @@ urllib3==2.0.5
 vine==5.0.0
 wcwidth==0.2.6
 webencodings==0.5.1
-anyjson==0.3.3
+python3-anyjson
